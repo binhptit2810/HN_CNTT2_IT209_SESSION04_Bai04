@@ -1,0 +1,19 @@
+# Sensitive files
+
+credentials.txt
+*.env
+.env
+
+# IDE files
+
+.idea/
+*.iml
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
